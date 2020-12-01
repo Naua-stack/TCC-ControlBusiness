@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Control Business</string>
+    <string name="not_log_in">Não pode iniciar sessão</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+
+    <!--Títulos-->
+    <string name="first_slide_title">Controle de Estoque</string>
+    <string name="second_slide_title">Procure outras empresas</string>
+    <string name="third_slide_title">Venda seus produtos</string>
+
+    <!--Descriçõe-->
+    <string name="first_slide_desc">No Control Business você pode controlar o seu estoque
+da forma mais ágil e segura possível!</string>
+    <string name="second_slide_desc">No Control Business você pode procurar outras empresas
+cadastradas no app e ver as informações dela!
+</string>
+    <string name="third_slide_desc">No Control Business você pode vender os seus produtos com conversas rápidas
+ pelo chat!</string>
+
+    <!--Botões-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Skip</string>
+    <string name="let_get_started">Vamos começar</string>
+    <string name="title_activity_map_tracking">Map</string>
+    <string name="contatos">contatos</string>
+    <string name="logout">logout</string>
+    <string name="btn_chat">Enviar</string>
+    <string name="message">Digite a mensagem</string>
+    <string name="forgetpassword">Esqueceu a Senha</string>
+    <string name="forgetpassworddetail">forneça o e-mail da sua conta para o qual você deseja redefinir sua senha</string>
+    <string name="enteremail">Email</string>
+    <string name="emailds">Email</string>
+    <string name="otp_code_next">Código</string>
+    <string name="otp_code_verification">Verificação</string>
+    <string name="otp_code_descricao">" digite uma senha única enviada em"</string>
+    <string name="novascredenciais">Novas Credenciais</string>
+    <string name="novascredenciaisdetalhes">sua identidade foi confirmada! defina sua nova senha</string>
+    <string name="senhaatualizada">Senha\nAtualizada</string>
+    <string name="senhaatualizadamessage">Sua Senha foi Atualizada</string>
+    <string name="valor">Valor</string>
+    <string name="adicionar_produto">Adicionar Produto</string>
+    <string name="data_de_fabrica_o">Data de Fabricação</string>
+
+
+</resources>
