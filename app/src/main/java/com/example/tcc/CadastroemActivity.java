@@ -132,8 +132,12 @@ public class CadastroemActivity extends AppCompatActivity {
 
 
                                         } else {
+                                            if(mSelectUri == null) {
+                                                Toast.makeText(CadastroemActivity.this, "Você precisa informar uma foto", Toast.LENGTH_SHORT).show();
+                                            } else {
+                                                registrarUsuario();
+                                            }
 
-                                            registrarUsuario();
                                         }
                                     }
 
